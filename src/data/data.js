@@ -9,7 +9,7 @@ export const MenuList = [
   {
     name: "Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, abb!",
     image: Dosa,
     price: 200,
   },
